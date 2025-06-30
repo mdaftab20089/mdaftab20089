@@ -1,4 +1,9 @@
-[![MasterHead](https://tse3.mm.bing.net/th?id=OIP.ZG06ZTg5dJOPeNZS74-YCwHaEK&pid=Api&P=0&h=180)](https://github.com/mdaftab20089)
+<p align="center">
+  <a href="https://github.com/mdaftab20089">
+    <img src="https://tse3.mm.bing.net/th?id=OIP.ZG06ZTg5dJOPeNZS74-YCwHaEK&pid=Api&P=0&h=180" alt="MasterHead">
+  </a>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Md Aftab</h1>
 <h3 align="center">Machine Learning Enthusiast | Full Stack Web Developer | Competitive Programmer</h3>
