@@ -3,12 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md Aftab</h1>
 <h3 align="center">Machine Learning Enthusiast | Full Stack Web Developer | Competitive Programmer</h3>
 
-<img 
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-  alt="Coding"
-  width="400"
-  style="display: block; margin: auto;"
->
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdaftab20089&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
